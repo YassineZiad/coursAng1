@@ -33,15 +33,6 @@
       "imageUrl": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW1bfyL?ver=ba56",
       "createdDate": "Sat May 21 2022 21:49:21 GMT+0100 (Central European Standard Time)",
       "location": "Queensland, Australie"
-    },
-	{
-      "id": 5,
-      "title": "Three Rock Mountain",
-      "description": "Un endroit magnifique pour les randonnĂ©es.",
-	  "likes": 27
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Three_Rock_Mountain_Southern_Tor.jpg/2880px-Three_Rock_Mountain_Southern_Tor.jpg",
-      "createdDate": "Mon Dec 13 2021 14:51:42 GMT+0100 (Central European Standard Time)",
-      "location": "La Montagne"
     }
   ]
 }
